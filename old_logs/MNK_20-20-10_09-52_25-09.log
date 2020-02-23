@@ -1,0 +1,84 @@
+##################
+###   GAME  1  ###
+##################
+SETTINGS:
+  M: 20
+  N: 20
+  K: 10
+
+  Turn: 1
+  Player: X
+  Location: 0,0
+
+  Turn: 2
+  Player: O
+  Location: 1,1
+
+  Turn: 3
+  Player: X
+  Location: 0,1
+
+  Turn: 4
+  Player: O
+  Location: 1,0
+
+  Turn: 5
+  Player: X
+  Location: 0,2
+
+  Turn: 6
+  Player: O
+  Location: 1,2
+
+  Turn: 7
+  Player: X
+  Location: 0,3
+
+  Turn: 8
+  Player: O
+  Location: 3,3
+
+  Turn: 9
+  Player: X
+  Location: 0,4
+
+  Turn: 10
+  Player: O
+  Location: 2,2
+
+  Turn: 11
+  Player: X
+  Location: 0,5
+
+  Turn: 12
+  Player: O
+  Location: 4,4
+
+  Turn: 13
+  Player: X
+  Location: 0,6
+
+  Turn: 14
+  Player: O
+  Location: 7,7
+
+  Turn: 15
+  Player: X
+  Location: 0,7
+
+  Turn: 16
+  Player: O
+  Location: 6,6
+
+  Turn: 17
+  Player: X
+  Location: 0,8
+
+  Turn: 18
+  Player: O
+  Location: 5,5
+
+  Turn: 19
+  Player: X
+  Location: 0,9
+

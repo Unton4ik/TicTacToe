@@ -1,0 +1,28 @@
+SETTINGS:
+  M: 5
+  N: 4
+  K: 3
+
+##################
+###   GAME 1
+##################
+  Turn: 1
+  Player: X
+  Location: 0,0
+
+  Turn: 2
+  Player: O
+  Location: 0,1
+
+  Turn: 3
+  Player: X
+  Location: 1,0
+
+  Turn: 4
+  Player: O
+  Location: 0,2
+
+  Turn: 5
+  Player: X
+  Location: 2,0
+

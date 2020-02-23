@@ -1,0 +1,1760 @@
+##################
+###   GAME  1  ###
+##################
+SETTINGS:
+  M: 5
+  N: 4
+  K: 3
+
+  Turn: 1
+  Player: X
+  Location: 1,1
+
+  Turn: 2
+  Player: O
+  Location: 4,3
+
+  Turn: 3
+  Player: X
+  Location: 0,0
+
+  Turn: 4
+  Player: O
+  Location: 1,2
+
+  Turn: 5
+  Player: X
+  Location: 0,1
+
+  Turn: 6
+  Player: O
+  Location: 2,2
+
+  Turn: 7
+  Player: X
+  Location: 0,2
+
+##################
+###   GAME  2  ###
+##################
+SETTINGS:
+  M: 7
+  N: 5
+  K: 4
+
+  Turn: 1
+  Player: X
+  Location: 1,4
+
+  Turn: 2
+  Player: O
+  Location: 2,3
+
+  Turn: 3
+  Player: X
+  Location: 5,0
+
+  Turn: 4
+  Player: O
+  Location: 3,0
+
+  Turn: 5
+  Player: X
+  Location: 0,1
+
+  Turn: 6
+  Player: O
+  Location: 5,2
+
+  Turn: 7
+  Player: X
+  Location: 3,1
+
+  Turn: 8
+  Player: O
+  Location: 3,2
+
+  Turn: 9
+  Player: X
+  Location: 4,0
+
+  Turn: 10
+  Player: O
+  Location: 5,1
+
+  Turn: 11
+  Player: X
+  Location: 5,4
+
+  Turn: 12
+  Player: O
+  Location: 2,0
+
+  Turn: 13
+  Player: X
+  Location: 5,3
+
+  Turn: 14
+  Player: O
+  Location: 0,3
+
+  Turn: 15
+  Player: X
+  Location: 2,1
+
+  Turn: 16
+  Player: O
+  Location: 1,0
+
+  Turn: 17
+  Player: X
+  Location: 0,2
+
+  Turn: 18
+  Player: O
+  Location: 0,4
+
+  Turn: 19
+  Player: X
+  Location: 4,3
+
+  Turn: 20
+  Player: O
+  Location: 1,3
+
+  Turn: 21
+  Player: X
+  Location: 4,2
+
+  Turn: 22
+  Player: O
+  Location: 2,4
+
+  Turn: 23
+  Player: X
+  Location: 4,1
+
+##################
+###   GAME  3  ###
+##################
+SETTINGS:
+  M: 25
+  N: 25
+  K: 10
+
+  Turn: 1
+  Player: X
+  Location: 0,0
+
+  Turn: 2
+  Player: O
+  Location: 1,1
+
+  Turn: 3
+  Player: X
+  Location: 0,1
+
+  Turn: 4
+  Player: O
+  Location: 2,2
+
+  Turn: 5
+  Player: X
+  Location: 0,2
+
+  Turn: 6
+  Player: O
+  Location: 3,3
+
+  Turn: 7
+  Player: X
+  Location: 0,3
+
+  Turn: 8
+  Player: O
+  Location: 0,4
+
+  Turn: 9
+  Player: X
+  Location: 4,4
+
+  Turn: 10
+  Player: O
+  Location: 0,5
+
+  Turn: 11
+  Player: X
+  Location: 6,6
+
+  Turn: 12
+  Player: O
+  Location: 0,6
+
+  Turn: 13
+  Player: X
+  Location: 5,5
+
+  Turn: 14
+  Player: O
+  Location: 0,7
+
+  Turn: 15
+  Player: X
+  Location: 7,7
+
+  Turn: 16
+  Player: O
+  Location: 0,8
+
+  Turn: 17
+  Player: X
+  Location: 8,8
+
+  Turn: 18
+  Player: O
+  Location: 0,9
+
+  Turn: 19
+  Player: X
+  Location: 9,9
+
+  Turn: 20
+  Player: O
+  Location: 0,10
+
+  Turn: 21
+  Player: X
+  Location: 10,10
+
+  Turn: 22
+  Player: O
+  Location: 0,11
+
+  Turn: 23
+  Player: X
+  Location: 12,12
+
+  Turn: 24
+  Player: O
+  Location: 0,12
+
+  Turn: 25
+  Player: X
+  Location: 11,11
+
+  Turn: 26
+  Player: O
+  Location: 0,13
+
+##################
+###   GAME  4  ###
+##################
+SETTINGS:
+  M: 22
+  N: 22
+  K: 10
+
+  Turn: 1
+  Player: X
+  Location: 17,8
+
+  Turn: 2
+  Player: O
+  Location: 20,16
+
+  Turn: 3
+  Player: X
+  Location: 8,3
+
+  Turn: 4
+  Player: O
+  Location: 14,13
+
+  Turn: 5
+  Player: X
+  Location: 6,4
+
+  Turn: 6
+  Player: O
+  Location: 2,9
+
+  Turn: 7
+  Player: X
+  Location: 18,10
+
+  Turn: 8
+  Player: O
+  Location: 0,17
+
+  Turn: 9
+  Player: X
+  Location: 20,21
+
+  Turn: 10
+  Player: O
+  Location: 7,8
+
+  Turn: 11
+  Player: X
+  Location: 18,3
+
+  Turn: 12
+  Player: O
+  Location: 20,10
+
+  Turn: 13
+  Player: X
+  Location: 14,3
+
+  Turn: 14
+  Player: O
+  Location: 15,19
+
+  Turn: 15
+  Player: X
+  Location: 21,12
+
+  Turn: 16
+  Player: O
+  Location: 11,6
+
+  Turn: 17
+  Player: X
+  Location: 8,2
+
+  Turn: 18
+  Player: O
+  Location: 17,14
+
+  Turn: 19
+  Player: X
+  Location: 7,17
+
+  Turn: 20
+  Player: O
+  Location: 19,9
+
+  Turn: 21
+  Player: X
+  Location: 6,8
+
+  Turn: 22
+  Player: O
+  Location: 14,8
+
+  Turn: 23
+  Player: X
+  Location: 21,9
+
+  Turn: 24
+  Player: O
+  Location: 16,15
+
+  Turn: 25
+  Player: X
+  Location: 11,10
+
+  Turn: 26
+  Player: O
+  Location: 4,2
+
+  Turn: 27
+  Player: X
+  Location: 10,0
+
+  Turn: 28
+  Player: O
+  Location: 17,2
+
+  Turn: 29
+  Player: X
+  Location: 10,16
+
+  Turn: 30
+  Player: O
+  Location: 20,7
+
+  Turn: 31
+  Player: X
+  Location: 12,15
+
+  Turn: 32
+  Player: O
+  Location: 12,18
+
+  Turn: 33
+  Player: X
+  Location: 14,0
+
+  Turn: 34
+  Player: O
+  Location: 9,6
+
+  Turn: 35
+  Player: X
+  Location: 4,14
+
+  Turn: 36
+  Player: O
+  Location: 10,11
+
+  Turn: 37
+  Player: X
+  Location: 20,17
+
+  Turn: 38
+  Player: O
+  Location: 16,13
+
+  Turn: 39
+  Player: X
+  Location: 15,17
+
+  Turn: 40
+  Player: O
+  Location: 0,11
+
+  Turn: 41
+  Player: X
+  Location: 0,2
+
+  Turn: 42
+  Player: O
+  Location: 19,7
+
+  Turn: 43
+  Player: X
+  Location: 16,1
+
+  Turn: 44
+  Player: O
+  Location: 8,18
+
+  Turn: 45
+  Player: X
+  Location: 6,9
+
+  Turn: 46
+  Player: O
+  Location: 2,3
+
+  Turn: 47
+  Player: X
+  Location: 15,9
+
+  Turn: 48
+  Player: O
+  Location: 17,10
+
+  Turn: 49
+  Player: X
+  Location: 16,10
+
+  Turn: 50
+  Player: O
+  Location: 1,6
+
+  Turn: 51
+  Player: X
+  Location: 3,16
+
+  Turn: 52
+  Player: O
+  Location: 9,11
+
+  Turn: 53
+  Player: X
+  Location: 5,10
+
+  Turn: 54
+  Player: O
+  Location: 4,18
+
+  Turn: 55
+  Player: X
+  Location: 16,11
+
+  Turn: 56
+  Player: O
+  Location: 3,10
+
+  Turn: 57
+  Player: X
+  Location: 21,1
+
+  Turn: 58
+  Player: O
+  Location: 1,16
+
+  Turn: 59
+  Player: X
+  Location: 11,12
+
+  Turn: 60
+  Player: O
+  Location: 13,9
+
+  Turn: 61
+  Player: X
+  Location: 2,0
+
+  Turn: 62
+  Player: O
+  Location: 4,5
+
+  Turn: 63
+  Player: X
+  Location: 3,6
+
+  Turn: 64
+  Player: O
+  Location: 4,11
+
+  Turn: 65
+  Player: X
+  Location: 2,6
+
+  Turn: 66
+  Player: O
+  Location: 11,20
+
+  Turn: 67
+  Player: X
+  Location: 5,12
+
+  Turn: 68
+  Player: O
+  Location: 3,0
+
+  Turn: 69
+  Player: X
+  Location: 2,17
+
+  Turn: 70
+  Player: O
+  Location: 18,11
+
+  Turn: 71
+  Player: X
+  Location: 8,15
+
+  Turn: 72
+  Player: O
+  Location: 8,5
+
+  Turn: 73
+  Player: X
+  Location: 13,11
+
+  Turn: 74
+  Player: O
+  Location: 13,19
+
+  Turn: 75
+  Player: X
+  Location: 8,19
+
+  Turn: 76
+  Player: O
+  Location: 17,5
+
+  Turn: 77
+  Player: X
+  Location: 0,1
+
+  Turn: 78
+  Player: O
+  Location: 21,20
+
+  Turn: 79
+  Player: X
+  Location: 21,8
+
+  Turn: 80
+  Player: O
+  Location: 11,5
+
+  Turn: 81
+  Player: X
+  Location: 19,17
+
+  Turn: 82
+  Player: O
+  Location: 21,0
+
+  Turn: 83
+  Player: X
+  Location: 11,17
+
+  Turn: 84
+  Player: O
+  Location: 5,15
+
+  Turn: 85
+  Player: X
+  Location: 2,18
+
+  Turn: 86
+  Player: O
+  Location: 3,21
+
+  Turn: 87
+  Player: X
+  Location: 17,0
+
+  Turn: 88
+  Player: O
+  Location: 21,4
+
+  Turn: 89
+  Player: X
+  Location: 20,1
+
+  Turn: 90
+  Player: O
+  Location: 3,2
+
+  Turn: 91
+  Player: X
+  Location: 14,12
+
+  Turn: 92
+  Player: O
+  Location: 5,2
+
+  Turn: 93
+  Player: X
+  Location: 4,9
+
+  Turn: 94
+  Player: O
+  Location: 3,1
+
+  Turn: 95
+  Player: X
+  Location: 16,19
+
+  Turn: 96
+  Player: O
+  Location: 15,18
+
+  Turn: 97
+  Player: X
+  Location: 18,21
+
+  Turn: 98
+  Player: O
+  Location: 11,19
+
+  Turn: 99
+  Player: X
+  Location: 6,18
+
+  Turn: 100
+  Player: O
+  Location: 2,1
+
+  Turn: 101
+  Player: X
+  Location: 14,18
+
+  Turn: 102
+  Player: O
+  Location: 8,11
+
+  Turn: 103
+  Player: X
+  Location: 3,18
+
+  Turn: 104
+  Player: O
+  Location: 1,0
+
+  Turn: 105
+  Player: X
+  Location: 6,19
+
+  Turn: 106
+  Player: O
+  Location: 21,13
+
+  Turn: 107
+  Player: X
+  Location: 13,3
+
+  Turn: 108
+  Player: O
+  Location: 18,0
+
+  Turn: 109
+  Player: X
+  Location: 9,3
+
+  Turn: 110
+  Player: O
+  Location: 17,16
+
+  Turn: 111
+  Player: X
+  Location: 19,20
+
+  Turn: 112
+  Player: O
+  Location: 12,17
+
+  Turn: 113
+  Player: X
+  Location: 2,8
+
+  Turn: 114
+  Player: O
+  Location: 7,5
+
+  Turn: 115
+  Player: X
+  Location: 21,11
+
+  Turn: 116
+  Player: O
+  Location: 16,8
+
+  Turn: 117
+  Player: X
+  Location: 7,13
+
+  Turn: 118
+  Player: O
+  Location: 18,1
+
+  Turn: 119
+  Player: X
+  Location: 9,12
+
+  Turn: 120
+  Player: O
+  Location: 10,20
+
+  Turn: 121
+  Player: X
+  Location: 14,1
+
+  Turn: 122
+  Player: O
+  Location: 5,1
+
+  Turn: 123
+  Player: X
+  Location: 15,3
+
+  Turn: 124
+  Player: O
+  Location: 7,6
+
+  Turn: 125
+  Player: X
+  Location: 18,19
+
+  Turn: 126
+  Player: O
+  Location: 19,12
+
+  Turn: 127
+  Player: X
+  Location: 5,20
+
+  Turn: 128
+  Player: O
+  Location: 0,6
+
+  Turn: 129
+  Player: X
+  Location: 0,8
+
+  Turn: 130
+  Player: O
+  Location: 10,7
+
+  Turn: 131
+  Player: X
+  Location: 10,6
+
+  Turn: 132
+  Player: O
+  Location: 21,17
+
+  Turn: 133
+  Player: X
+  Location: 10,14
+
+  Turn: 134
+  Player: O
+  Location: 3,14
+
+  Turn: 135
+  Player: X
+  Location: 6,11
+
+  Turn: 136
+  Player: O
+  Location: 16,2
+
+  Turn: 137
+  Player: X
+  Location: 1,12
+
+  Turn: 138
+  Player: O
+  Location: 13,18
+
+  Turn: 139
+  Player: X
+  Location: 21,15
+
+  Turn: 140
+  Player: O
+  Location: 19,15
+
+  Turn: 141
+  Player: X
+  Location: 14,15
+
+  Turn: 142
+  Player: O
+  Location: 6,0
+
+  Turn: 143
+  Player: X
+  Location: 3,20
+
+  Turn: 144
+  Player: O
+  Location: 21,18
+
+  Turn: 145
+  Player: X
+  Location: 7,18
+
+  Turn: 146
+  Player: O
+  Location: 1,2
+
+  Turn: 147
+  Player: X
+  Location: 6,13
+
+  Turn: 148
+  Player: O
+  Location: 20,19
+
+  Turn: 149
+  Player: X
+  Location: 1,8
+
+  Turn: 150
+  Player: O
+  Location: 19,8
+
+  Turn: 151
+  Player: X
+  Location: 16,21
+
+  Turn: 152
+  Player: O
+  Location: 20,11
+
+  Turn: 153
+  Player: X
+  Location: 4,10
+
+  Turn: 154
+  Player: O
+  Location: 5,0
+
+  Turn: 155
+  Player: X
+  Location: 12,1
+
+  Turn: 156
+  Player: O
+  Location: 8,17
+
+  Turn: 157
+  Player: X
+  Location: 17,13
+
+  Turn: 158
+  Player: O
+  Location: 14,5
+
+  Turn: 159
+  Player: X
+  Location: 3,9
+
+  Turn: 160
+  Player: O
+  Location: 1,20
+
+  Turn: 161
+  Player: X
+  Location: 1,13
+
+  Turn: 162
+  Player: O
+  Location: 12,4
+
+  Turn: 163
+  Player: X
+  Location: 21,19
+
+  Turn: 164
+  Player: O
+  Location: 14,21
+
+  Turn: 165
+  Player: X
+  Location: 13,15
+
+  Turn: 166
+  Player: O
+  Location: 21,5
+
+  Turn: 167
+  Player: X
+  Location: 11,8
+
+  Turn: 168
+  Player: O
+  Location: 2,10
+
+  Turn: 169
+  Player: X
+  Location: 18,2
+
+  Turn: 170
+  Player: O
+  Location: 0,3
+
+  Turn: 171
+  Player: X
+  Location: 13,21
+
+  Turn: 172
+  Player: O
+  Location: 10,12
+
+  Turn: 173
+  Player: X
+  Location: 1,3
+
+  Turn: 174
+  Player: O
+  Location: 2,13
+
+  Turn: 175
+  Player: X
+  Location: 18,16
+
+  Turn: 176
+  Player: O
+  Location: 5,6
+
+  Turn: 177
+  Player: X
+  Location: 7,4
+
+  Turn: 178
+  Player: O
+  Location: 20,3
+
+  Turn: 179
+  Player: X
+  Location: 12,5
+
+  Turn: 180
+  Player: O
+  Location: 14,2
+
+  Turn: 181
+  Player: X
+  Location: 19,6
+
+  Turn: 182
+  Player: O
+  Location: 10,19
+
+  Turn: 183
+  Player: X
+  Location: 0,4
+
+  Turn: 184
+  Player: O
+  Location: 2,15
+
+  Turn: 185
+  Player: X
+  Location: 18,17
+
+  Turn: 186
+  Player: O
+  Location: 18,6
+
+  Turn: 187
+  Player: X
+  Location: 18,5
+
+  Turn: 188
+  Player: O
+  Location: 20,9
+
+  Turn: 189
+  Player: X
+  Location: 5,7
+
+  Turn: 190
+  Player: O
+  Location: 1,21
+
+  Turn: 191
+  Player: X
+  Location: 20,6
+
+  Turn: 192
+  Player: O
+  Location: 15,16
+
+  Turn: 193
+  Player: X
+  Location: 15,12
+
+  Turn: 194
+  Player: O
+  Location: 4,15
+
+  Turn: 195
+  Player: X
+  Location: 8,16
+
+  Turn: 196
+  Player: O
+  Location: 18,15
+
+  Turn: 197
+  Player: X
+  Location: 19,11
+
+  Turn: 198
+  Player: O
+  Location: 14,17
+
+  Turn: 199
+  Player: X
+  Location: 17,21
+
+  Turn: 200
+  Player: O
+  Location: 11,2
+
+  Turn: 201
+  Player: X
+  Location: 9,2
+
+  Turn: 202
+  Player: O
+  Location: 8,13
+
+  Turn: 203
+  Player: X
+  Location: 6,17
+
+  Turn: 204
+  Player: O
+  Location: 7,14
+
+  Turn: 205
+  Player: X
+  Location: 9,5
+
+  Turn: 206
+  Player: O
+  Location: 18,9
+
+  Turn: 207
+  Player: X
+  Location: 6,16
+
+  Turn: 208
+  Player: O
+  Location: 17,15
+
+  Turn: 209
+  Player: X
+  Location: 4,12
+
+  Turn: 210
+  Player: O
+  Location: 1,7
+
+  Turn: 211
+  Player: X
+  Location: 19,5
+
+  Turn: 212
+  Player: O
+  Location: 11,7
+
+  Turn: 213
+  Player: X
+  Location: 0,19
+
+  Turn: 214
+  Player: O
+  Location: 9,0
+
+  Turn: 215
+  Player: X
+  Location: 10,18
+
+  Turn: 216
+  Player: O
+  Location: 19,1
+
+  Turn: 217
+  Player: X
+  Location: 6,14
+
+  Turn: 218
+  Player: O
+  Location: 17,17
+
+  Turn: 219
+  Player: X
+  Location: 12,21
+
+  Turn: 220
+  Player: O
+  Location: 1,14
+
+  Turn: 221
+  Player: X
+  Location: 0,9
+
+  Turn: 222
+  Player: O
+  Location: 3,7
+
+  Turn: 223
+  Player: X
+  Location: 17,4
+
+  Turn: 224
+  Player: O
+  Location: 21,2
+
+  Turn: 225
+  Player: X
+  Location: 0,21
+
+  Turn: 226
+  Player: O
+  Location: 8,12
+
+  Turn: 227
+  Player: X
+  Location: 19,10
+
+  Turn: 228
+  Player: O
+  Location: 1,15
+
+  Turn: 229
+  Player: X
+  Location: 3,12
+
+  Turn: 230
+  Player: O
+  Location: 16,18
+
+  Turn: 231
+  Player: X
+  Location: 20,5
+
+  Turn: 232
+  Player: O
+  Location: 20,8
+
+  Turn: 233
+  Player: X
+  Location: 5,3
+
+  Turn: 234
+  Player: O
+  Location: 6,1
+
+  Turn: 235
+  Player: X
+  Location: 6,2
+
+  Turn: 236
+  Player: O
+  Location: 6,3
+
+  Turn: 237
+  Player: X
+  Location: 19,13
+
+  Turn: 238
+  Player: O
+  Location: 8,10
+
+  Turn: 239
+  Player: X
+  Location: 11,18
+
+  Turn: 240
+  Player: O
+  Location: 1,11
+
+  Turn: 241
+  Player: X
+  Location: 16,20
+
+  Turn: 242
+  Player: O
+  Location: 15,1
+
+  Turn: 243
+  Player: X
+  Location: 19,21
+
+  Turn: 244
+  Player: O
+  Location: 1,10
+
+  Turn: 245
+  Player: X
+  Location: 13,17
+
+  Turn: 246
+  Player: O
+  Location: 15,0
+
+  Turn: 247
+  Player: X
+  Location: 7,11
+
+  Turn: 248
+  Player: O
+  Location: 12,14
+
+  Turn: 249
+  Player: X
+  Location: 19,18
+
+  Turn: 250
+  Player: O
+  Location: 11,21
+
+  Turn: 251
+  Player: X
+  Location: 14,16
+
+  Turn: 252
+  Player: O
+  Location: 4,21
+
+  Turn: 253
+  Player: X
+  Location: 5,9
+
+  Turn: 254
+  Player: O
+  Location: 17,3
+
+  Turn: 255
+  Player: X
+  Location: 0,10
+
+  Turn: 256
+  Player: O
+  Location: 10,9
+
+  Turn: 257
+  Player: X
+  Location: 0,0
+
+  Turn: 258
+  Player: O
+  Location: 1,1
+
+  Turn: 259
+  Player: X
+  Location: 2,2
+
+  Turn: 260
+  Player: O
+  Location: 3,3
+
+  Turn: 261
+  Player: X
+  Location: 4,4
+
+  Turn: 262
+  Player: O
+  Location: 5,5
+
+  Turn: 263
+  Player: X
+  Location: 6,6
+
+  Turn: 264
+  Player: O
+  Location: 7,7
+
+  Turn: 265
+  Player: X
+  Location: 8,8
+
+  Turn: 266
+  Player: O
+  Location: 9,9
+
+  Turn: 267
+  Player: X
+  Location: 10,10
+
+  Turn: 268
+  Player: O
+  Location: 11,11
+
+  Turn: 269
+  Player: X
+  Location: 12,12
+
+  Turn: 270
+  Player: O
+  Location: 13,13
+
+  Turn: 271
+  Player: X
+  Location: 14,14
+
+  Turn: 272
+  Player: O
+  Location: 15,15
+
+  Turn: 273
+  Player: X
+  Location: 16,16
+
+  Turn: 274
+  Player: O
+  Location: 18,18
+
+  Turn: 275
+  Player: X
+  Location: 19,19
+
+  Turn: 276
+  Player: O
+  Location: 20,20
+
+  Turn: 277
+  Player: X
+  Location: 21,21
+
+  Turn: 278
+  Player: O
+  Location: 4,0
+
+  Turn: 279
+  Player: X
+  Location: 7,0
+
+  Turn: 280
+  Player: O
+  Location: 8,0
+
+  Turn: 281
+  Player: X
+  Location: 11,0
+
+  Turn: 282
+  Player: O
+  Location: 12,0
+
+  Turn: 283
+  Player: X
+  Location: 13,0
+
+  Turn: 284
+  Player: O
+  Location: 16,0
+
+  Turn: 285
+  Player: X
+  Location: 19,0
+
+  Turn: 286
+  Player: O
+  Location: 20,0
+
+  Turn: 287
+  Player: X
+  Location: 4,1
+
+  Turn: 288
+  Player: O
+  Location: 7,1
+
+  Turn: 289
+  Player: X
+  Location: 8,1
+
+  Turn: 290
+  Player: O
+  Location: 9,1
+
+  Turn: 291
+  Player: X
+  Location: 10,1
+
+  Turn: 292
+  Player: O
+  Location: 11,1
+
+  Turn: 293
+  Player: X
+  Location: 13,1
+
+  Turn: 294
+  Player: O
+  Location: 17,1
+
+  Turn: 295
+  Player: X
+  Location: 7,2
+
+  Turn: 296
+  Player: O
+  Location: 10,2
+
+  Turn: 297
+  Player: X
+  Location: 12,2
+
+  Turn: 298
+  Player: O
+  Location: 13,2
+
+  Turn: 299
+  Player: X
+  Location: 15,2
+
+  Turn: 300
+  Player: O
+  Location: 19,2
+
+  Turn: 301
+  Player: X
+  Location: 20,2
+
+  Turn: 302
+  Player: O
+  Location: 4,3
+
+  Turn: 303
+  Player: X
+  Location: 7,3
+
+  Turn: 304
+  Player: O
+  Location: 10,3
+
+  Turn: 305
+  Player: X
+  Location: 11,3
+
+  Turn: 306
+  Player: O
+  Location: 12,3
+
+  Turn: 307
+  Player: X
+  Location: 16,3
+
+  Turn: 308
+  Player: O
+  Location: 19,3
+
+  Turn: 309
+  Player: X
+  Location: 21,3
+
+  Turn: 310
+  Player: O
+  Location: 1,4
+
+  Turn: 311
+  Player: X
+  Location: 2,4
+
+  Turn: 312
+  Player: O
+  Location: 3,4
+
+  Turn: 313
+  Player: X
+  Location: 5,4
+
+  Turn: 314
+  Player: O
+  Location: 8,4
+
+  Turn: 315
+  Player: X
+  Location: 9,4
+
+  Turn: 316
+  Player: O
+  Location: 10,4
+
+  Turn: 317
+  Player: X
+  Location: 11,4
+
+  Turn: 318
+  Player: O
+  Location: 13,4
+
+  Turn: 319
+  Player: X
+  Location: 14,4
+
+  Turn: 320
+  Player: O
+  Location: 15,4
+
+  Turn: 321
+  Player: X
+  Location: 16,4
+
+  Turn: 322
+  Player: O
+  Location: 18,4
+
+  Turn: 323
+  Player: X
+  Location: 19,4
+
+  Turn: 324
+  Player: O
+  Location: 20,4
+
+  Turn: 325
+  Player: X
+  Location: 0,5
+
+  Turn: 326
+  Player: O
+  Location: 1,5
+
+  Turn: 327
+  Player: X
+  Location: 2,5
+
+  Turn: 328
+  Player: O
+  Location: 3,5
+
+  Turn: 329
+  Player: X
+  Location: 6,5
+
+  Turn: 330
+  Player: O
+  Location: 10,5
+
+  Turn: 331
+  Player: X
+  Location: 13,5
+
+  Turn: 332
+  Player: O
+  Location: 15,5
+
+  Turn: 333
+  Player: X
+  Location: 16,5
+
+  Turn: 334
+  Player: O
+  Location: 4,6
+
+  Turn: 335
+  Player: X
+  Location: 8,6
+
+  Turn: 336
+  Player: O
+  Location: 12,6
+
+  Turn: 337
+  Player: X
+  Location: 13,6
+
+  Turn: 338
+  Player: O
+  Location: 14,6
+
+  Turn: 339
+  Player: X
+  Location: 15,6
+
+  Turn: 340
+  Player: O
+  Location: 17,6
+
+  Turn: 341
+  Player: X
+  Location: 16,6
+
+  Turn: 342
+  Player: O
+  Location: 21,6
+
+  Turn: 343
+  Player: X
+  Location: 0,7
+
+  Turn: 344
+  Player: O
+  Location: 2,7
+
+  Turn: 345
+  Player: X
+  Location: 4,7
+
+  Turn: 346
+  Player: O
+  Location: 6,7
+
+  Turn: 347
+  Player: X
+  Location: 8,7
+
+  Turn: 348
+  Player: O
+  Location: 9,7
+
+  Turn: 349
+  Player: X
+  Location: 12,7
+
+  Turn: 350
+  Player: O
+  Location: 13,7
+
+  Turn: 351
+  Player: X
+  Location: 14,7
+
+  Turn: 352
+  Player: O
+  Location: 15,7
+
+  Turn: 353
+  Player: X
+  Location: 16,7
+
+  Turn: 354
+  Player: O
+  Location: 17,7
+
+  Turn: 355
+  Player: X
+  Location: 18,7
+
+  Turn: 356
+  Player: O
+  Location: 21,7
+
+  Turn: 357
+  Player: X
+  Location: 3,8
+
+  Turn: 358
+  Player: O
+  Location: 4,8
+
+  Turn: 359
+  Player: X
+  Location: 5,8
+
+  Turn: 360
+  Player: O
+  Location: 9,8
+
+  Turn: 361
+  Player: X
+  Location: 10,8
+
+  Turn: 362
+  Player: O
+  Location: 12,8
+
+  Turn: 363
+  Player: X
+  Location: 13,8
+
+  Turn: 364
+  Player: O
+  Location: 15,8
+
+  Turn: 365
+  Player: X
+  Location: 18,8
+
+  Turn: 366
+  Player: O
+  Location: 1,9
+
+  Turn: 367
+  Player: X
+  Location: 7,9
+
+  Turn: 368
+  Player: O
+  Location: 8,9
+
+  Turn: 369
+  Player: X
+  Location: 11,9
+
+  Turn: 370
+  Player: O
+  Location: 12,9
+
+  Turn: 371
+  Player: X
+  Location: 14,9
+
+  Turn: 372
+  Player: O
+  Location: 16,9
+
+  Turn: 373
+  Player: X
+  Location: 17,9
+
+  Turn: 374
+  Player: O
+  Location: 6,10
+
+  Turn: 375
+  Player: X
+  Location: 7,10
+
+  Turn: 376
+  Player: O
+  Location: 9,10
+

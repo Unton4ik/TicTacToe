@@ -1,0 +1,456 @@
+##################
+###   GAME  1  ###
+##################
+SETTINGS:
+  M: 10
+  N: 10
+  K: 5
+
+  Turn: 1
+  Player: X
+  Location: 4,6
+
+  Turn: 2
+  Player: O
+  Location: 1,3
+
+  Turn: 3
+  Player: X
+  Location: 7,9
+
+  Turn: 4
+  Player: O
+  Location: 1,5
+
+  Turn: 5
+  Player: X
+  Location: 1,7
+
+  Turn: 6
+  Player: O
+  Location: 3,7
+
+  Turn: 7
+  Player: X
+  Location: 2,8
+
+  Turn: 8
+  Player: O
+  Location: 6,7
+
+  Turn: 9
+  Player: X
+  Location: 5,9
+
+  Turn: 10
+  Player: O
+  Location: 2,9
+
+  Turn: 11
+  Player: X
+  Location: 6,8
+
+  Turn: 12
+  Player: O
+  Location: 8,9
+
+  Turn: 13
+  Player: X
+  Location: 2,6
+
+  Turn: 14
+  Player: O
+  Location: 1,2
+
+  Turn: 15
+  Player: X
+  Location: 4,9
+
+  Turn: 16
+  Player: O
+  Location: 4,8
+
+  Turn: 17
+  Player: X
+  Location: 2,7
+
+  Turn: 18
+  Player: O
+  Location: 3,5
+
+  Turn: 19
+  Player: X
+  Location: 6,9
+
+  Turn: 20
+  Player: O
+  Location: 2,3
+
+  Turn: 21
+  Player: X
+  Location: 5,8
+
+  Turn: 22
+  Player: O
+  Location: 4,5
+
+  Turn: 23
+  Player: X
+  Location: 1,9
+
+  Turn: 24
+  Player: O
+  Location: 2,4
+
+  Turn: 25
+  Player: X
+  Location: 7,8
+
+  Turn: 26
+  Player: O
+  Location: 1,6
+
+  Turn: 27
+  Player: X
+  Location: 3,8
+
+  Turn: 28
+  Player: O
+  Location: 3,6
+
+  Turn: 29
+  Player: X
+  Location: 0,8
+
+  Turn: 30
+  Player: O
+  Location: 0,6
+
+  Turn: 31
+  Player: X
+  Location: 0,3
+
+  Turn: 32
+  Player: O
+  Location: 2,5
+
+  Turn: 33
+  Player: X
+  Location: 5,7
+
+  Turn: 34
+  Player: O
+  Location: 7,2
+
+  Turn: 35
+  Player: X
+  Location: 9,0
+
+  Turn: 36
+  Player: O
+  Location: 4,2
+
+  Turn: 37
+  Player: X
+  Location: 8,6
+
+  Turn: 38
+  Player: O
+  Location: 6,1
+
+  Turn: 39
+  Player: X
+  Location: 9,4
+
+  Turn: 40
+  Player: O
+  Location: 3,1
+
+  Turn: 41
+  Player: X
+  Location: 1,8
+
+  Turn: 42
+  Player: O
+  Location: 5,3
+
+  Turn: 43
+  Player: X
+  Location: 4,7
+
+  Turn: 44
+  Player: O
+  Location: 8,0
+
+  Turn: 45
+  Player: X
+  Location: 7,3
+
+  Turn: 46
+  Player: O
+  Location: 1,4
+
+##################
+###   GAME  2  ###
+##################
+SETTINGS:
+  M: 10
+  N: 11
+  K: 6
+
+  Turn: 1
+  Player: X
+  Location: 1,7
+
+  Turn: 2
+  Player: O
+  Location: 3,10
+
+  Turn: 3
+  Player: X
+  Location: 5,3
+
+  Turn: 4
+  Player: O
+  Location: 0,5
+
+  Turn: 5
+  Player: X
+  Location: 1,10
+
+  Turn: 6
+  Player: O
+  Location: 2,5
+
+  Turn: 7
+  Player: X
+  Location: 7,3
+
+  Turn: 8
+  Player: O
+  Location: 2,7
+
+  Turn: 9
+  Player: X
+  Location: 2,6
+
+  Turn: 10
+  Player: O
+  Location: 3,1
+
+  Turn: 11
+  Player: X
+  Location: 3,7
+
+  Turn: 12
+  Player: O
+  Location: 3,6
+
+  Turn: 13
+  Player: X
+  Location: 4,5
+
+  Turn: 14
+  Player: O
+  Location: 7,6
+
+  Turn: 15
+  Player: X
+  Location: 6,9
+
+  Turn: 16
+  Player: O
+  Location: 9,3
+
+  Turn: 17
+  Player: X
+  Location: 4,0
+
+  Turn: 18
+  Player: O
+  Location: 7,5
+
+  Turn: 19
+  Player: X
+  Location: 9,0
+
+  Turn: 20
+  Player: O
+  Location: 7,10
+
+  Turn: 21
+  Player: X
+  Location: 4,2
+
+  Turn: 22
+  Player: O
+  Location: 5,9
+
+  Turn: 23
+  Player: X
+  Location: 6,2
+
+  Turn: 24
+  Player: O
+  Location: 3,8
+
+  Turn: 25
+  Player: X
+  Location: 7,4
+
+  Turn: 26
+  Player: O
+  Location: 1,9
+
+  Turn: 27
+  Player: X
+  Location: 3,9
+
+  Turn: 28
+  Player: O
+  Location: 3,2
+
+  Turn: 29
+  Player: X
+  Location: 7,9
+
+  Turn: 30
+  Player: O
+  Location: 0,3
+
+  Turn: 31
+  Player: X
+  Location: 6,7
+
+  Turn: 32
+  Player: O
+  Location: 0,6
+
+  Turn: 33
+  Player: X
+  Location: 8,6
+
+  Turn: 34
+  Player: O
+  Location: 8,2
+
+  Turn: 35
+  Player: X
+  Location: 5,0
+
+  Turn: 36
+  Player: O
+  Location: 4,7
+
+  Turn: 37
+  Player: X
+  Location: 0,4
+
+  Turn: 38
+  Player: O
+  Location: 1,5
+
+  Turn: 39
+  Player: X
+  Location: 2,3
+
+  Turn: 40
+  Player: O
+  Location: 0,10
+
+  Turn: 41
+  Player: X
+  Location: 5,6
+
+  Turn: 42
+  Player: O
+  Location: 8,5
+
+  Turn: 43
+  Player: X
+  Location: 0,1
+
+  Turn: 44
+  Player: O
+  Location: 4,1
+
+  Turn: 45
+  Player: X
+  Location: 7,1
+
+  Turn: 46
+  Player: O
+  Location: 5,1
+
+  Turn: 47
+  Player: X
+  Location: 5,2
+
+  Turn: 48
+  Player: O
+  Location: 1,0
+
+  Turn: 49
+  Player: X
+  Location: 9,1
+
+  Turn: 50
+  Player: O
+  Location: 6,1
+
+  Turn: 51
+  Player: X
+  Location: 5,4
+
+  Turn: 52
+  Player: O
+  Location: 7,0
+
+  Turn: 53
+  Player: X
+  Location: 2,0
+
+  Turn: 54
+  Player: O
+  Location: 5,8
+
+  Turn: 55
+  Player: X
+  Location: 6,10
+
+  Turn: 56
+  Player: O
+  Location: 0,8
+
+  Turn: 57
+  Player: X
+  Location: 6,3
+
+  Turn: 58
+  Player: O
+  Location: 2,8
+
+  Turn: 59
+  Player: X
+  Location: 9,8
+
+  Turn: 60
+  Player: O
+  Location: 4,9
+
+  Turn: 61
+  Player: X
+  Location: 0,9
+
+  Turn: 62
+  Player: O
+  Location: 1,8
+
+  Turn: 63
+  Player: X
+  Location: 8,7
+
+  Turn: 64
+  Player: O
+  Location: 4,8
+
